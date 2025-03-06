@@ -18,10 +18,10 @@ The project consists of three main files:
    - Formula: `Fahrenheit = (Celsius × 9/5) + 32`  
 
 2. **Weight Conversion**  
-   - Formula: `Pounds = Kilograms × 2.20462`  
+   - Formula: `Pounds = Kilograms × 2.2`  
 
 3. **Distance Conversion**  
-   - Formula: `Miles = Kilometers × 0.621371`  
+   - Formula: `Miles = Kilometers × 0.62137`  
 
 ## 📌 How to Use  
 
